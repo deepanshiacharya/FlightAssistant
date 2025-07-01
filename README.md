@@ -8,7 +8,7 @@ With just a few details from the user, the assistant instantly provides the **th
 
 FlightAssistant is powered by advanced machine learning techniques to accurately predict flight prices. Multiple models were tested, and after evaluating their performance, a **Stacking Regressor** was selected for deployment due to its superior performance by combining the strengths of multiple base models.
 
-### 🚀 Model Comparisons
+### Model Comparisons
 
 | Model                  | MAPE       | MSE             | R²          | MAE          |
 | ---------------------- | ---------- | --------------- | ----------- | ------------ |
@@ -55,7 +55,9 @@ Users interact with the assistant through a conversational interface, asking for
 
 ---
 
-##  Sample Screenshot
+##  Demo
 
 ![image](https://github.com/user-attachments/assets/0e1d7745-4c5f-4191-9123-1e332a7a01c6)
 ![image](https://github.com/user-attachments/assets/93ae6580-a36b-45fb-9ea6-df9f8de10382)
+
+
