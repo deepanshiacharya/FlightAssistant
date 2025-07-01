@@ -57,8 +57,5 @@ Users interact with the assistant through a conversational interface, asking for
 
 ##  Demo
 
-![image](https://github.com/user-attachments/assets/0e1d7745-4c5f-4191-9123-1e332a7a01c6)
-![image](https://github.com/user-attachments/assets/93ae6580-a36b-45fb-9ea6-df9f8de10382)
-
 https://github.com/user-attachments/assets/bdfe06c2-1541-4ca4-9923-5efca972e3df
 
